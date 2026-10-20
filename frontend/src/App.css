@@ -1,0 +1,24 @@
+.health-section {
+  margin: 0 auto 2.5rem;
+  max-width: 720px;
+}
+
+.health-box {
+  background-color: #eef6ff;
+  border: 2px solid #0d6efd;
+  border-radius: 12px;
+  padding: 1.25rem 1.5rem;
+  text-align: left;
+}
+
+.health-box h4 {
+  margin: 0 0 0.5rem;
+  color: #0d6efd;
+  font-size: 1.25rem;
+}
+
+.health-box p {
+  margin: 0;
+  color: #198754;
+  font-weight: 700;
+}
